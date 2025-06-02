@@ -2,7 +2,7 @@
 #  File name:      log.py                       #        _.==._        #
 #  Author:         Arjan Lemmens                #     .+=##**##=+.     #
 #  Date:           18-Jul-2023                  #    *= #        =*    #
-#  Company:        Nexperia                     #   #/  #         \#   #
+# ============================================= #   #/  #         \#   #
 #  Description:    Method used to initialize    #  |#   #   $      #|  #
 #                  the global logger.           #  |#   #   #      #|  #
 #  Rev:            3.2                          #   #\  #   #     /#   #
